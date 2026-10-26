@@ -1,0 +1,10 @@
+column,lower_bound,upper_bound,outliers_before,outliers_capped
+sales,-149.975,569.905,488,488
+order_item_total,-110.15,461.93,1943,1943
+order_item_product_price,-174.985,424.975,2048,2048
+order_item_discount,-31.485,66.875,7537,7537
+order_profit_per_order,-79.7,151.5,18942,18942
+benefit_per_order,-79.7,151.5,18942,18942
+days_for_shipping_real,-2.5,9.5,0,0
+days_for_shipment_scheduled,-1.0,7.0,0,0
+order_item_quantity,-2.0,6.0,0,0
